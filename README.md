@@ -14,7 +14,6 @@ This repository contains my personal notes and study materials from classes at C
 
 ### Navigation
 - Notes are organized by topic and lecture number.
-- Example problems are in the `examples` directory.
 - Additional resources can be found in the `resources` folder.
 
 ### Contributing
