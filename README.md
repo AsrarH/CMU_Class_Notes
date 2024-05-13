@@ -2,7 +2,7 @@
 # Class Notes on Discrete Differential Geometry , 3D vision, and Physics-Based Rendering
 
 ## About This Repository
-This repository contains my personal notes and study materials from classes at CMU on Discrete Differential Geometry and Physics-Based Rendering. The purpose of this repository is to share knowledge and resources with fellow students and enthusiasts in the fields of computational geometry and computer vision.
+This repository contains my personal notes and study materials from classes at CMU on Discrete Differential Geometry, Learning for 3D vision , Geometry-Based Methods in Vision, and Physics-Based Rendering. The purpose of this repository is to share knowledge and resources with fellow students and enthusiasts in the fields of computational geometry and computer vision.
 
 ### Contents
 - Lecture notes on Discrete Differential Geometry(DDG).
